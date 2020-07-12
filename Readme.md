@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * If you Liked My Work Then DO star this Repository. :clap:
 
-[Certificate](Certificate.png)
+[Certificate](https://github.com/alexmercerr07/JPMorgan-Chase-Internship/blob/master/Certificate.png)
